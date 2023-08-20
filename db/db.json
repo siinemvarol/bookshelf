@@ -1,0 +1,74 @@
+{
+  "book": [
+    {
+      "name": "Sinem",
+      "releaseDate": "2023-08-02",
+      "author": "dsf",
+      "pageCount": "4",
+      "ispn": "3",
+      "gender": "action",
+      "publisher": "qdasd",
+      "id": 1
+    },
+    {
+      "name": "hale",
+      "releaseDate": "2023-08-18",
+      "author": "cemal",
+      "pageCount": "200",
+      "isbn": "4444",
+      "gender": "dystopian",
+      "publisher": "can",
+      "id": 2
+    },
+    {
+      "name": "",
+      "releaseDate": "",
+      "author": "",
+      "pageCount": "",
+      "isbn": "",
+      "gender": "",
+      "publisher": "",
+      "id": 3
+    },
+    {
+      "name": "Sinem",
+      "releaseDate": "2023-08-18",
+      "author": "cemal",
+      "pageCount": "45",
+      "isbn": "4444",
+      "gender": "action",
+      "publisher": "can",
+      "id": 4
+    },
+    {
+      "name": "yasemin",
+      "releaseDate": "2023-08-18",
+      "author": "cemal",
+      "pageCount": "34",
+      "isbn": "4444",
+      "gender": "dystopian",
+      "publisher": "can",
+      "id": 5
+    },
+    {
+      "name": "Sinem",
+      "releaseDate": "2023-08-20",
+      "author": "cemal",
+      "pageCount": "88",
+      "isbn": "4444",
+      "gender": "dystopian",
+      "publisher": "can",
+      "id": 6
+    },
+    {
+      "name": "hale",
+      "releaseDate": "2023-08-10",
+      "author": "cemal",
+      "pageCount": "34",
+      "isbn": "4444",
+      "gender": "action",
+      "publisher": "can",
+      "id": 7
+    }
+  ]
+}
